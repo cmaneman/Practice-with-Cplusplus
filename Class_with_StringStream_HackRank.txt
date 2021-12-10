@@ -2,10 +2,8 @@
 #include <sstream>
 using namespace std;
 
-/*
-Enter code for class Student here.
-Read statement for specification.
-*/
+//https://www.tutorialspoint.com/stringstream-in-cplusplus
+
 class Student
 {
     private:
